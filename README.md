@@ -19,5 +19,8 @@ Created a module named `transform` that exports a function named `groupAdultsByA
 The objects represent people, with a property `name` and a property `age`. 
 `groupAdultsByAgeRange` - groups each person over the age of 18 into age ranges. 
 
+## Run
+* `yarn install`
+* `yarn test`
 ## License
 MIT Licence - Copyright &copy; 2018 - Alina Rusu
